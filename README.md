@@ -18,10 +18,10 @@
 
 ## Activity 5:
 1- Rebase on the rebase branch. Now we have c3->c4->c1->c2 on the rebase branch:
-![Activity 5-1](https://github.com/nidaa-7/ECE444-F2023-Assignment2/assets/136858218/c7a1cc2f-4820-461b-ae11-666b4cdce72f)
+![Activity 5-1](https://github.com/nidaa-7/ECE444-F2023-Assignment1/assets/136858218/ca47dcfc-2c8e-4100-9236-4105068600fa)
 
 2- Rebase on develop branch. Now we have c3->c4->c1-c2 on the develop branch as required:
-![Activity 5-2](https://github.com/nidaa-7/ECE444-F2023-Assignment2/assets/136858218/5ee5ccb7-0284-4bc5-bef7-ec64ffe2107e)
+![Activity 5-2](https://github.com/nidaa-7/ECE444-F2023-Assignment1/assets/136858218/d6ebcd6e-db81-4613-a693-89c28fcc305f)
 
 3- A screenshot of the commit history on the develop branch:
-![Activity 5-3](https://github.com/nidaa-7/ECE444-F2023-Assignment2/assets/136858218/3c3cdd61-5022-4cdd-a19e-714aca20217e)
+![Activity 5-3](https://github.com/nidaa-7/ECE444-F2023-Assignment1/assets/136858218/0ab71caa-9a00-48a2-b410-3dcc900ace29)
